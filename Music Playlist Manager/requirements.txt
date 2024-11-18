@@ -1,0 +1,13 @@
+Software Requirements:
+- Microsoft Visual Studio 2010
+- Windows SDK 7.1
+- .NET Framework 4.0
+- Windows OS (Application created in Visual Studio 2010 for Windows x86 platform)
+
+Hardware Requirements:
+- Microphone (for live speech input)
+- Speakers/Headphones (for audio playback)
+- x86/x64 processor
+
+Dependencies:
+- winmm.lib (Windows Multimedia Library)
